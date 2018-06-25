@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# List of links in the navigation bar
+navbar-links:
+  Leadership: "leadership"
+  
