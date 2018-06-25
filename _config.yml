@@ -3,4 +3,6 @@ theme: jekyll-theme-cayman
 # List of links in the navigation bar
 navbar-links:
   Leadership: "leadership"
+  Faculty And Staff: "facultyandstaff"
+  CBU Blog: "blog"
   
