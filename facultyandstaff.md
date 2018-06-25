@@ -1,6 +1,6 @@
 ---
 title: Faculty and Staff
-nav: true
+menu: header
 ---
 
 ### Faculty and Staff
