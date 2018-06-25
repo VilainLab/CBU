@@ -1,6 +1,6 @@
 ---
 title: Leadership
-nav: true
+menu: header
 ---
 
 ## Leadership
