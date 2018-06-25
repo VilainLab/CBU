@@ -1,3 +1,8 @@
+
+# site settings
+title: CBU
+pub_year: 2018
+github_username:bi-ctsicn
 theme: minima
 
 # List of links in the navigation bar
