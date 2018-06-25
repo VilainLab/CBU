@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Home
-menu: header
 ---
 ## Welcome to Children's Bioinformatics Unit 
 
