@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Leadership
 menu: header
 ---
 
-### The leadership of the CBU is composed of:
+The leadership of the CBU is composed of:
 
 Dr. Eric Vilain - Director of Center for Genetic Medicine Research 
 
