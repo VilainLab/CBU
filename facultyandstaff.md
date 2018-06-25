@@ -1,5 +1,5 @@
 ---
-titie: Faculty and Staff
+title: Faculty and Staff
 nav: true
 ---
 
