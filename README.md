@@ -1,6 +1,6 @@
 ## Welcome to Children's Bioinformatics Unit
 
-The CTSI-CN CRI Bioinformatics Unit (CBU) provides bioinformatics consultation and analytical services in an initiative sponsored by The Center for Genetic Medicine Research, the Center for Translational Science, the Clinical and Translational Institute at Children’s National (CTSI-CN), the District of Columbia Intellectual and Developmental Disabilities Research Center (DC-IDDRC) and the Chief Research Officer’s office at Children's National Health Center.
+The CTSI-CN CRI Bioinformatics Unit (CBU) provides bioinformatics consultation and analytical services in an initiative sponsored by [The Center for Genetic Medicine Research](https://childrensnational.org/research-and-education/center-for-genetic-medicine-research), the Center for Translational Science, the Clinical and Translational Institute at Children’s National (CTSI-CN), the District of Columbia Intellectual and Developmental Disabilities Research Center (DC-IDDRC) and the Chief Research Officer’s office at Children's National Health Center.
 
 ### Services
 We assist in the following types of Study Consultation and Experimental Design:
