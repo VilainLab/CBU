@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/github/government.github.com.svg?branch=gh-pages)](https://travis-ci.org/github/government.github.com)
+[![Build Status](https://bi-ctsicn.github.io/CBU/)](https://www.ctsicn.org/)
 [Leadership](leadership.md)                    [Faculty and Staff](facultyandstaff.md)                  [CBU Blog](blog.md)
 ## Welcome to Children's Bioinformatics Unit 
 
