@@ -6,7 +6,7 @@ theme: minima
 
 # List of links in the navigation bar
 navbar-links:
-  Services: "services"
+  Services: "service"
   People: "people"
   CBU Blog: "blog"
   
