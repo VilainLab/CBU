@@ -1,5 +1,5 @@
 ---
 title : CBU Blog
-nav : true
+menu : header
 ---
 ### CBU Blog
