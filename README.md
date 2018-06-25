@@ -1,3 +1,4 @@
+[![Build Status]
 [Leadership](leadership.md)                    [Faculty and Staff](facultyandstaff.md)                  [CBU Blog](blog.md)
 ## Welcome to Children's Bioinformatics Unit 
 
