@@ -4,7 +4,7 @@ title: People
 menu: header
 ---
 
-##**`Leadership`**:
+## **Leadership:**
 
 * Dr. Eric Vilain - Director of Center for Genetic Medicine Research 
 <p align="center">
@@ -41,7 +41,7 @@ menu: header
   <img src="images/ling.png " width="200"/>
 </p>
 
-The bioinformatics staff includes:
+## **Staff:**
 
 * Payal Banerjee - Bioinformatics Analyst
 <p align="center">
