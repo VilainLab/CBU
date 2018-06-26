@@ -20,7 +20,10 @@ Dr. Michael Keller - Center for Cancer and Immunology liaison
 
 Dr. Marius George Linguraru - Sheik Zayed Institute for Surgical Innovation liaison
 
-The bioinformatics staff includes 
+The bioinformatics staff includes:
+
 Dr. Hayk Barseghyan 
+
 Dr. Surajit Bhattacharya  
+
 Payal Banerjee
