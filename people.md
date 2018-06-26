@@ -6,7 +6,7 @@ menu: header
 
 ## **Leadership:**
 
-* [Dr. Eric Vilain](https://childrensnational.org/research-and-education/about-cri/faculty-and-leadership-directory/vilian-eric)- Director of Center for Genetic Medicine Research 
+* [Dr. Eric Vilain](https://childrensnational.org/research-and-education/about-cri/faculty-and-leadership-directory/vilian-eric) - Director of Center for Genetic Medicine Research 
 <p align="center">
   <img src="images/eric.png " width="200"/>
 </p>
@@ -16,7 +16,7 @@ menu: header
   <img src="images/lisa.png " width="200"/>
 </p>
 
-* [Dr. Hiroki Morizono](https://childrensnational.org/research-and-education/about-cri/faculty-and-leadership-directory/hiroki-morizono)- Director of CBU
+* [Dr. Hiroki Morizono](https://childrensnational.org/research-and-education/about-cri/faculty-and-leadership-directory/hiroki-morizono) - Director of CBU
 <p align="center">
   <img src="images/hiroki.jpg " width="200"/>
 </p>
