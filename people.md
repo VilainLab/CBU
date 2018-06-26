@@ -7,7 +7,9 @@ menu: header
 The leadership of the CBU is composed of:
 
 Dr. Eric Vilain - Director of Center for Genetic Medicine Research 
-
+<p align="center">
+  <img src="" />
+</p>
 Dr. Lisa Guay-Woodford - Director of CTSI at Children’s National
 
 Dr. Hiroki Morizono - Director of CBU
