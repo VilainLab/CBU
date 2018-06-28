@@ -29,7 +29,6 @@ Please fill out the following form to request Bioinformatics Consultation and Da
       <img src="images/request.png" alt="http://j.mp/2FSWz7s" width="400" />
   </a>
 </p>     
-**<http://j.mp/2FSWz7s>**
 
 ### **Contact Us**
 `bioinformatics@childrensnational.org`
