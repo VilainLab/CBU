@@ -1,5 +1,5 @@
 # site settings
-title: CBU
+title: Children's Bioinformatics Unit
 pub_year: 2018
 github_username: bi-ctsicn
 theme: minima
@@ -10,7 +10,7 @@ navbar-links:
   People: "people"
   CBU Blog: "blog"
 
-  plugins:
+plugins:
  - jekyll-feed
  - jekyll-seo-tag
   
