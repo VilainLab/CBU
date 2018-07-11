@@ -2,7 +2,7 @@
 title: Children's Bioinformatics Unit
 pub_year: 2018
 github_username: bi-ctsicn
-theme: jekyll-theme-cayman
+theme: minima
 
 # List of links in the navigation bar
 navbar-links:
