@@ -1,3 +1,6 @@
+---
+layout: page
+---
 <p align="center">
     <img src="images/dna2.jpg" />
 </p>  
