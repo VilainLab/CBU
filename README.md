@@ -11,12 +11,12 @@ We assist in the following types of Study Consultation and Experimental Design:
 
 * mRNA/miRNA Sequencing
 * Exome Sequencing
-> * Whole Genome Sequencing
-> * Microarray
-> * Metagenomics/Microbiome Sequencing
-> * ChIP Sequencing
-> * Single Cell Sequencing
-> * Other/Custom
+* Whole Genome Sequencing
+* Microarray
+* Metagenomics/Microbiome Sequencing
+* ChIP Sequencing
+* Single Cell Sequencing
+* Other/Custom
 
 {% endhighlight %}
 
@@ -24,13 +24,13 @@ The CBU performs genomic data analysis with standard as well as custom pipelines
 
 {% highlight ruby %}
 
-> * De Novo Assembly
-> * Single Nucleotide Variation Detection
-> * Copy Number Variation
-> * Structural Variant Detection
-> * Fusion Analysis
-> * Differential Gene Expression
-> * Other/Custom Analysis
+* De Novo Assembly
+* Single Nucleotide Variation Detection
+* Copy Number Variation
+* Structural Variant Detection
+* Fusion Analysis
+* Differential Gene Expression
+* Other/Custom Analysis
 
 {% endhighlight %}
 
