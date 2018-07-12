@@ -7,6 +7,9 @@ The **[CRI Bioinformatics Unit (CBU)](https://bi-ctsicn.github.io/CBU/)** provid
 ### **Services**
 We assist in the following types of Study Consultation and Experimental Design:
 
+
+{: .box-note}
+**Note:**
 * mRNA/miRNA Sequencing
 * Exome Sequencing
 * Whole Genome Sequencing
