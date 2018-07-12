@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: CBU Blog
+Title: Blog
 menu: header
 ---
 
