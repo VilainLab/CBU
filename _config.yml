@@ -10,6 +10,8 @@ navbar-links:
   People: "people"
   CBU Blog: "blog"
 
+navbar-col: "#F5F5F5"
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
