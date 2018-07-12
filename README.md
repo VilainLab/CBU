@@ -11,14 +11,14 @@ The **[CRI Bioinformatics Unit (CBU)](https://bi-ctsicn.github.io/CBU/)** provid
 We assist in the following types of Study Consultation and Experimental Design:
 
 {% highlight ruby %}
-- mRNA/miRNA Sequencing
-- Exome Sequencing
-- Whole Genome Sequencing
-- Microarray
-- Metagenomics/Microbiome Sequencing
-- ChIP Sequencing
-- Single Cell Sequencing
-- Other/Custom
+> * mRNA/miRNA Sequencing
+> * Exome Sequencing
+> * Whole Genome Sequencing
+> * Microarray
+> * Metagenomics/Microbiome Sequencing
+> * ChIP Sequencing
+> * Single Cell Sequencing
+> * Other/Custom
 {% endhighlight %}
 
 The CBU performs genomic data analysis with standard as well as custom pipelines according to specific requirements of a project. CBU also actively participates in training the next generation of biomedical researchers with the goal of enabling quality research and education. Below are the bioinformatics Data Analysis services provided by CBU:
