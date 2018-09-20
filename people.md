@@ -45,7 +45,7 @@ menu: header
 
 * Payal Banerjee - Bioinformatics Analyst
 <p align="center">
-  <img src="images/payal_headshot.jpg " width="200"/>
+  <img src="images/payal_headshot_2.jpg " width="200"/>
 </p>
 
 * Dr. Surajit Bhattacharya - Post-Doctoral Fellow, Vilain Lab
