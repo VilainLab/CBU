@@ -4,4 +4,4 @@ Title: Blog
 menu: header
 ---
 
-Welcome to CBU Blog!
+Welcome to the CBU Blog!
