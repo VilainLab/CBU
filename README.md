@@ -14,21 +14,21 @@ We assist in the following types of Study Consultation and Experimental Design:
     * Single Nucleotide Variation Detection 
     * Fusion Analysis
 * Whole Genome sequencing
-De Novo Assembly 
-Single Nucleotide Variation Detection 
-Copy Number Variation 
-Structural Variant Detection
-Exome sequencing
-Single Nucleotide Variation Detection 
-Copy Number Variation 
-Structural Variant Detection
-Microbiome Analysis (16s and metagenomics)
-Single Cell Sequencing
-T-cell receptor Sequencing 
-Bisulphite Sequencing
-Chip Sequencing
-Microarray
-Other/Custom Analysis
+    * De Novo Assembly 
+    * Single Nucleotide Variation Detection 
+    * Copy Number Variation 
+    * Structural Variant Detection
+* Exome sequencing
+    * Single Nucleotide Variation Detection 
+    * Copy Number Variation 
+    * Structural Variant Detection
+* Microbiome Analysis (16s and metagenomics)
+* Single Cell Sequencing
+* T-cell receptor Sequencing 
+* Methylation Sequencing (Bisulphite Sequencing)
+* Chip Sequencing
+* Microarray
+* Other/Custom Analysis
 
 
 {% endhighlight %}
