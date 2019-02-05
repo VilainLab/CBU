@@ -6,11 +6,11 @@ The **[CRI Bioinformatics Unit (CBU)](https://bi-ctsicn.github.io/CBU/)** provid
 
 # We assist in the following:
 
-## **Experimental Design Consultation **
+## **1. Experimental Design Consultation**
 
-## **Grant Technical Writing Support**
+## **2. Grant Technical Writing Support**
 
-## **Data Analysis**
+## **3. Data Analysis**
  
 * **RNA sequencing**
     * Differential Gene Expression  
@@ -35,12 +35,17 @@ The **[CRI Bioinformatics Unit (CBU)](https://bi-ctsicn.github.io/CBU/)** provid
 
 CBU also actively participates in training the next generation of biomedical researchers with the goal of enabling quality research and education. Below are the bioinformatics Data Analysis services provided by CBU:
 
+We generally recommend people either to share their data for analysis via Hard Drive (Mac compatible) or via Dropbox
 
+Along with Data submission we request people to fill out the following a submission form -
 <p align="center">
   <a href="http://j.mp/2FSWz7s">
       <img src="images/request2.png" alt="http://j.mp/2FSWz7s" width="400" />
   </a>
 </p>     
+
+Turnaround time – 2-3 weeks depending upon experiment and number of samples
+
 
 ### **Contact Us**
 `bioinformatics@childrensnational.org`
