@@ -44,7 +44,7 @@ _Along with Data submission we request people to fill out the following a submis
   </a>
 </p>     
 
-> Preliminary data procesiing and analysis turnaround time is generally  2-3 weeks depending upon experiment and number of samples. Further downstream data analysis, may take more time. Can be assessed upon consultation.
+> Preliminary data procesiing and analysis turnaround time is generally  2-3 weeks depending upon experiment and number of samples. Further downstream data analysis, may take more time. Timeline may be assessed upon consultation.
 
 
 ### **Contact Us**
