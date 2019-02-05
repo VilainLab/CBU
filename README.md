@@ -33,18 +33,18 @@ The **[CRI Bioinformatics Unit (CBU)](https://bi-ctsicn.github.io/CBU/)** provid
 * **Microarray**
 * **Other/Custom Analysis**
 
-CBU also actively participates in training the next generation of biomedical researchers with the goal of enabling quality research and education. Below are the bioinformatics Data Analysis services provided by CBU:
+CBU also actively participates in training the next generation of biomedical researchers with the goal of enabling quality research and education.
 
-**We generally recommend people either to share their data for analysis via Hard Drive (Mac compatible) or via Dropbox**
+### **We generally recommend people either to share their data for analysis via Hard Drive (Mac compatible) or via Dropbox**
 
-Along with Data submission we request people to fill out the following a submission form -
+_Along with Data submission we request people to fill out the following a submission form -_
 <p align="center">
   <a href="http://j.mp/2FSWz7s">
       <img src="images/request2.png" alt="http://j.mp/2FSWz7s" width="400" />
   </a>
 </p>     
 
-> Turnaround time – 2-3 weeks depending upon experiment and number of samples
+> Preliminary data procesiing and analysis turnaround time is generally  2-3 weeks depending upon experiment and number of samples. Further downstream data analysis, may take more time. Can be assessed upon consultation.
 
 
 ### **Contact Us**
