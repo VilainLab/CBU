@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Blog
+Title: Interesting Reads
 menu: header
 ---
 
-Welcome to the CBU Blog!
+#### Welcome to the CBU Blog!
