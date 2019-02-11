@@ -1,6 +1,6 @@
 ---
-layout: post
-Title: Interesting Reads
+layout: page
+Title: Blog
 menu: header
 ---
 
