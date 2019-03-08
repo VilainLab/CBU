@@ -81,7 +81,7 @@ The raw sequencing data in fastqc files is first quality checked with FastQC and
 * BBDuk
 * cutadapt
 
-Extraction and alignment of fragments of target molecules is performed followed by assembly of overlapping fragmented sequencing reads into long-enough CDR3 containing contigs using the MiXCR pipeline to analyze TCR or Ig repertoire from sequencing data sequencing data.
+Extraction and alignment of fragments of target molecules is performed followed by assembly of overlapping fragmented sequencing reads into long-enough CDR3 containing contigs using the MiXCR pipeline to analyze TCR or Ig repertoire from sequencing data.
 
 ## **Metagenomics/Microbiome**
 
