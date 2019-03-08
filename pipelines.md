@@ -24,6 +24,7 @@ The aligned Sequence Alignment Map (SAM) files are sorted and converted to BAM u
 Next, the Binary Alignment Map (BAM) files are checked for their quality using either of the following tools
 *	Picard RNASeqmetrics
 *	RSeQC
+
 In cases for fusion gene detection, we specifically use either the Tophat-fusion or STAR-Fusion tool. While splicing events are identified using SGSe tool part of the biocondutor package in R.
 
 Quantification of reads to Transcripts per million (TPM) is calculated using RSEM.
