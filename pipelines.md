@@ -9,9 +9,10 @@ menu: header
 FastQ files containing the raw RNA-Seq reads output from the sequencers are first checked for quality using FastQC. 
 
 It is followed by trimming of poor quality reads using any of the following tools
-•	Trimmomatic 
-•	BBDuk
-•	cutadapt
+
+* Trimmomatic 
+*BBDuk
+•*cutadapt
 
 An aligner is used to align the reads to the reference genome (Human/Mouse etc) using any of the following tools
 •	Tophat2
@@ -82,7 +83,8 @@ The raw sequencing data in fastqc files is first quality checked with FastQC and
 
 Extraction and alignment of fragments of target molecules is performed followed by assembly of overlapping fragmented sequencing reads into long-enough CDR3 containing contigs using the MiXCR pipeline to analyze TCR or Ig repertoire from sequencing data sequencing data.
 
-4.	Metagenomics/Microbiome
+## **Metagenomics/Microbiome**
+
 The raw sequencing data in fastqc files is first quality checked with FastQC and depending upon the quality it is trimmed using the following tools.
 •	Trimmomatic 
 •	BBDuk
