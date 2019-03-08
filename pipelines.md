@@ -59,7 +59,7 @@ The aligned Sequence Alignment Map (SAM) files are processed  to Binary Alignmen
 *	samtools  
 *	Picard tools
 
-We follow the Genome Analysis Toolkit 4 (GATK 4),  pipeline to do Variant Calloing. The BAM files are further processed for using Base Quality Score Recalibration (BQSR) step to detect and correct base calling errors from sequencers:
+We follow the Genome Analysis Toolkit 4 (GATK 4),  pipeline to do Variant Calling. The BAM files are further processed for using Base Quality Score Recalibration (BQSR) step to detect and correct base calling errors from sequencers:
 *	BaseRecalibrator
 *	ApplyBQSR
 
