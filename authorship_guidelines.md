@@ -1,6 +1,8 @@
-Children’s Research Institute
-Bioinformatics Unit
-Authorship Policy
+---
+layout: page
+title: CBU Authorship Policy
+menu: header
+---
 
 Per the guidelines of the International Committee of Medical Journal Editors (ICMJE)1, authorship credit is indicated when the following four conditions are met:
 
