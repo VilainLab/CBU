@@ -1,4 +1,11 @@
-1.	RNA Seq
+---
+layout: page
+title: Pipelines
+menu: header
+---
+
+## **RNA Seq**
+
 FastQ files containing the raw RNA-Seq reads output from the sequencers are first checked for quality using FastQC. 
 
 It is followed by trimming of poor quality reads using any of the following tools
@@ -35,7 +42,7 @@ For Differential Gene expression, we use either the following packages in R:
 The final data can be represented in the form of heatmaps, volcano plots, MA plots and PCA plots using basic R packages. 
 
 
-2.	WGS/Exome Seq
+## **WGS/Exome Seq**
 
 The raw sequencing data in fastqc files is first quality checked with FastQC and depending upon the quality it is trimmed using the following tools.
 •	Trimmomatic 
@@ -66,7 +73,8 @@ The vcf file is then further processed  using Variant Quality Score Recalibratio
 Annotation of variant is done using Annovar, followed by manual filtration.
 
 
-3.	T-cell Receptor Sequencing
+## **T-cell Receptor Sequencing**
+
 The raw sequencing data in fastqc files is first quality checked with FastQC and depending upon the quality it is trimmed using the following tools.
 •	Trimmomatic 
 •	BBDuk
