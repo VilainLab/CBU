@@ -10,7 +10,7 @@ FastQ files containing the raw RNA-Seq reads output from the sequencers are firs
 
 It is followed by trimming of poor quality reads using any of the following tools
 
-* Trimmomatic <a href="http://www.usadellab.org/cms/?page=trimmomatic">
+* Trimmomatic <a href="http://www.usadellab.org/cms/?page=trimmomatic" /a>
 * BBDuk
 * cutadapt
 
